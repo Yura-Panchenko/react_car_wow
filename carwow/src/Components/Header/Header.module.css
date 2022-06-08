@@ -1,0 +1,12 @@
+.header {
+    padding: 10px 20px;
+    background: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_holder {
+    display: flex;
+    justify-content: space-between;
+}

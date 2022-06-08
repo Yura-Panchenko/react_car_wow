@@ -1,0 +1,7 @@
+.front_page_container {
+    display: flex;
+}
+
+.sidebar_left {
+    order: -1;
+}
